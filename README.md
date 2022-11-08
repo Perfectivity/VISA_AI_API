@@ -32,13 +32,13 @@ Artificial intelligence API used in VISA wechat mini program recommendation func
 |food|推荐/非推荐的**店铺**的编号|没有返回的数据时显示为 “ ”|
 |souvenir|推荐/非推荐的**纪念品商店**的编号|没有返回的数据时显示为 “ ”|
 
-❗️ 接口返回数据不是产品名称，而是产品的编号，所以返回的商品编号必须与后台页面输入的相同商品编号的商品名称相连接。
+❗️ 接口返回数据不是产品名称，而是产品的编号，所以返回的地区编号必须与后台页面输入的相同地区编号的地区名称相连接。
 
 
 ---
 ## Category Flag
 ---
-|**商品分类**|**参数**|
+|**地区分类**|**参数**|
 |--|--|
 |首尔餐厅|restraurant
 |首尔景点|tour
@@ -51,10 +51,10 @@ Artificial intelligence API used in VISA wechat mini program recommendation func
 ---
 |**ai_type**|**参数**|
 |--|--|
-|推荐产品（来源于微信小程序）|preference
-|推荐产品（正确答案）|standard
-|非推荐产品（来源于微信小程序）|unlike
-|非推荐产品(正确答案）|unlike_standard
+|推荐地区（来源于微信小程序）|preference
+|推荐地区（正确答案）|standard
+|非推荐地区（来源于微信小程序）|unlike
+|非推荐地区 (正确答案）|unlike_standard
 
 ---
 # 接口详情
