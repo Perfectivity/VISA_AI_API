@@ -1,6 +1,6 @@
 # 🐼 VISA_AI_API (2022年 11月 08日 更新 BY.金柱盛)
 
-Artificial intelligence API used in duty-free shop product recommendation functions.
+Artificial intelligence API used in VISA wechat mini program recommendation functions.
 (人工智能地区推荐)
 
 ## 参数
