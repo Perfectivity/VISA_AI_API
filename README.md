@@ -175,7 +175,7 @@ AUC的 计算方式如下
 ```json
 {
 "openid": "aawre2456aa434MMsaaaaaa", 
-"callback": "2021-09-00 10:58:16", 
+"callback": "2022-11-00 10:58:16", 
 "token_rcv": "OK",
 "ai_type": "preference",
 "restaurant": "9351915000116", 
@@ -189,7 +189,7 @@ AUC的 计算方式如下
 推荐地区（正确答案）
 ```json
 {"openid": "aaaaaaaaaaaaaa", 
-"callback": "2021-09-00 14:31:26", 
+"callback": "2022-11-00 14:31:26", 
 "token_rcv": "OK",
 "ai_type": "standard",
 "restaurant": [ "9351915000116", "9351915000114" ], 
@@ -225,7 +225,7 @@ AUC的 计算方式如下
 ```json
 { 
 "openid": "aaaaaaaaaaaaaa", 
-"callback": "2021-09-00 14:52:20", 
+"callback": "2022-11-00 14:52:20", 
 "token_rcv": "OK",
 "ai_type": "unlike",
 "restaurant": "",
@@ -240,7 +240,7 @@ AUC的 计算方式如下
 ```json
 {
 "openid": "aaaaaaaaaaaaaa", 
-"callback": "2021-09-00 14:54:15", 
+"callback": "2022-11-00 14:54:15", 
 "token_rcv": "OK",
 "ai_type": "unlike_standard", 
 "restaurant": "9351915000119", 
