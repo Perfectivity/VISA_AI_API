@@ -61,7 +61,7 @@ Artificial intelligence API used in VISA wechat mini program recommendation func
 
 ##  1. 推荐地区（来源于小程序）
 
-🟨 Request URL: https://www.ai-model.kr/ai-deep-mind/predict_proba_visa.ai
+🟨 Request URL: https://www.ai-model.kr/ai-deep-mind-visa/predict_proba_visa.ai
 
 🟨 调用数据 ： 6个推荐地区 （每个分类中选1个）
 
@@ -83,7 +83,7 @@ Artificial intelligence API used in VISA wechat mini program recommendation func
 
 ##  2. 推荐地区（正确答案）
 
-🟩 Request URL: https://www.ai-model.kr/ai-deep-mind/predict_standard_visa.ai
+🟩 Request URL: https://www.ai-model.kr/ai-deep-mind-visa/predict_standard_visa.ai
 
 🟩 调用数据 ： 12个推荐地区 （每个分类中选2个）
 
@@ -106,7 +106,7 @@ Artificial intelligence API used in VISA wechat mini program recommendation func
 
 ##  3. 非推荐地区（来源于小程序）
 
-🟦 Request URL: https://www.ai-model.kr/ai-deep-mind/predict_proba_unlike_visa.ai
+🟦 Request URL: https://www.ai-model.kr/ai-deep-mind-visa/predict_proba_unlike_visa.ai
 
 🟦 调用数据 ： 4个推荐地区
 
@@ -129,7 +129,7 @@ Artificial intelligence API used in VISA wechat mini program recommendation func
 
 ##  4. 非推荐地区（正确答案）
 
-🟪 Request URL: https://www.ai-model.kr/ai-deep-mind/predict_standard_unlike_visa.ai
+🟪 Request URL: https://www.ai-model.kr/ai-deep-mind-visa/predict_standard_unlike_visa.ai
 
 🟪 调用数据 ： 6个推荐地区 （每个分类中选1个）
 
